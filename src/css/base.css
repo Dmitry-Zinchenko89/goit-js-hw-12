@@ -30,13 +30,13 @@ header {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.search-form {
+.form {
   display: flex;
   justify-content: center;
   gap: 10px;
 }
 
-.search-form input {
+.form input {
   width: 300px;
   padding: 10px;
   border: 1px solid #bdbdbd;
@@ -44,7 +44,7 @@ header {
   font-size: 16px;
 }
 
-.search-form button {
+.form button {
   padding: 10px 20px;
   background-color: #2196f3;
   color: #ffffff;
@@ -53,7 +53,7 @@ header {
   cursor: pointer;
 }
 
-.search-form button:hover {
+.form button:hover {
   background-color: #1976d2;
 }
 
